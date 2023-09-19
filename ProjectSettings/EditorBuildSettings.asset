@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Ayuda Visual.unity
+    guid: 92a44a1ba6b4b8842bec942d65446e35
   m_configObjects: {}
